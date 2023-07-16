@@ -64,7 +64,7 @@ Con la selección de datos se realizó una exploración y análisis de los datos
 
 **Link archivo de procesamiento:**
 
-[Archivo de EDA:](./EDA_seleccion.ipynb)
+[Archivo de EDA](./EDA_seleccion.ipynb)
 
 
 
@@ -94,7 +94,7 @@ Empleando herramientas de visualización interactiva se generaron tableros a mod
 
 **Link directorio de Dashboard:**
 
-['Directorio Tablero'](./PowerBI/)
+[Directorio Tablero](./PowerBI/)
 
 # **`ETL`**</h3>
 
